@@ -1,4 +1,6 @@
-
+<p align="center">
+<img src="https://github.com/kvnatera/kvnatera/blob/main/Texto del párrafo.png" alt="Banner de Kenia Natera" width="100%">
+</p>
 👋 ¡Hola, soy Kenia Natera!
 
 🚀 Administrador de Sistemas TI | Middleware | Infraestructura Cloud (Azure, AWS, GCP) & On-Prem | Automatización (Python, CI/CD) | Ciberseguridad & Gestión de Incidentes | Linux & Windows | MECM/SCCM, Intune | Nagios | SQL
