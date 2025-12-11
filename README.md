@@ -9,6 +9,7 @@
 
 ✅Profesional TI con 𝟭𝟱 𝗮ñ𝗼𝘀 de experiencia en Administración de Sistemas, Infraestructura Híbrida (On-Premise y Cloud), Gestión de Endpoints, Automatización, Alta Disponibilidad y Continuidad Operativa.
 
+🌍 Experiencia en sectores: **banca, retail, salud, telecomunicaciones y administración pública**. 
 🌎 **Experiencia Internacional:**  
 🇨🇱 **Chile** – Administración de infraestructura híbrida y soporte corporativo (banca y retail).  
 🇦🇷 **Argentina** – Proyectos de sistemas y middleware en entornos de alta disponibilidad.  
@@ -72,8 +73,6 @@ Modelo de regresión con tuning de épocas y comparación de desempeño. 📈 Re
 ☁️ **4. Dashboard de Cumplimiento de Despliegues (Power BI)**
 
 Dashboard creado con datos de MECM e Intune para validar estados de despliegues, parches y cumplimiento corporativo. 🔧 Tecnologías: Power BI, SQL, Azure AD, Intune, Python (ETL)
-
-🌍 Experiencia en sectores: **banca, retail, salud, telecomunicaciones y administración pública**. 
 
 💬 **Cómo puedo contribuir**
 
