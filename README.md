@@ -10,6 +10,7 @@
 ✅Profesional TI con 𝟭𝟱 𝗮ñ𝗼𝘀 de experiencia en Administración de Sistemas, Infraestructura Híbrida (On-Premise y Cloud), Gestión de Endpoints, Automatización, Alta Disponibilidad y Continuidad Operativa.
 
 🌍 Experiencia en sectores: **banca, retail, salud, telecomunicaciones y administración pública**. 
+
 🌎 **Experiencia Internacional:**  
 🇨🇱 **Chile** – Administración de infraestructura híbrida y soporte corporativo (banca y retail).  
 🇦🇷 **Argentina** – Proyectos de sistemas y middleware en entornos de alta disponibilidad.  
